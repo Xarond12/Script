@@ -93,6 +93,7 @@ function loader:detectGame()
 end
 
 loader:addGame(286090429, "Arsenal", "arsenal")
+loader:addGame(4616652839, "Shindo", "shindo")
 
 
 local detectedGame = loader:detectGame()
