@@ -98,6 +98,7 @@ loader:addGame(4616652839, "Shindo", "shindo")
 loader:addGame(4601350214, "Shindo-Ember", "shindo")
 loader:addGame(606849621, "Jailbreak", "jb")
 loader:addGame(2727067538, "World // Zero", "wrldzero")
+loader:addGame(4952780297, "Combat Rift", "combatrift")
 
 
 local detectedGame = loader:detectGame()
