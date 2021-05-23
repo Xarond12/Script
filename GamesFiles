@@ -1,1 +1,10 @@
-
+{
+   "4793451617":{"name":"Planet Mining", "Script":"https://raw.githubusercontent.com/Snakeboy99/BLUEX/main/Games/Planet_Mining.lua", "Working":true},
+   "4952780297":{"name":"Combat Rift", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/combatrift", "Working":true},
+   "920587237":{"name":"Adopt Me", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/adoptme", "Working":false},
+   "606849621":{"name":"Jailbreak", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/jb", "Working":true},
+   "2619187362":{"name":"Super Power Fighting Simulator", "Script":"https://raw.githubusercontent.com/Snakeboy99/BLUEX/main/Games/Planet_Mining.lua", "Working":true},
+   "2727067538":{"name":"World // Zero", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/wrldzero", "Working":true},
+   "286090429":{"name":"Arsenal", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/arsenal", "Working":true},
+   "4616652839":{"name":"Shindo", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/shindo", "Working":true}
+}
