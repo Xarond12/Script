@@ -96,6 +96,7 @@ loader:addGame(286090429, "Arsenal", "arsenal")
 loader:addGame(2619187362, "Super Power Fighting Simulator", "spfs")
 loader:addGame(4616652839, "Shindo", "shindo")
 loader:addGame(4601350214, "Shindo-Ember", "shindo")
+loader:addGame(606849621, "Jailbreak", "jb")
 
 
 local detectedGame = loader:detectGame()
