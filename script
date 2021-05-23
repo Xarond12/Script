@@ -1,4 +1,4 @@
-local CustomLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/Snakeboy99/BLUEX/main/Loader_BlueX.lua"))()
+local CustomLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xarond12/Script/main/loader"))()
 local SET_UP = CustomLoader("Xarond Hub", "json",{
-   URL = "https://raw.githubusercontent.com/Snakeboy99/BLUEX/main/Games/GamesFile.json";
+   URL = "https://raw.githubusercontent.com/Xarond12/Script/main/GamesFiles";
 })
