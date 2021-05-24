@@ -7,5 +7,6 @@
    "2727067538":{"name":"World // Zero", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/wrldzero", "Working":true},
    "286090429":{"name":"Arsenal", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/arsenal", "Working":true},
    "537413528":{"name":"Build A Boat For Treasure", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/babft", "Working":true},
+   "3260590327":{"name":"Tower Defense Simulator", "Script":"loadstring(game:HttpGet("https://banbus.cf/Scripts/TDSEquipper"))()", "Working":true},
    "4616652839":{"name":"Shindo", "Script":"https://raw.githubusercontent.com/Xarond12/Games/main/shindo", "Working":true}
 }
